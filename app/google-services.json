@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "763534609663",
+    "firebase_url": "https://ipbook-pa-default-rtdb.firebaseio.com",
+    "project_id": "ipbook-pa",
+    "storage_bucket": "ipbook-pa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763534609663:android:230ea85a1eddf0f6e790ca",
+        "android_client_info": {
+          "package_name": "com.example.pa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763534609663-94mn41cjs9igsrr8o39k92aka0qvap4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqBZyJvvpspaFOuMiXq_r2LBQWv-OVrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763534609663-94mn41cjs9igsrr8o39k92aka0qvap4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763534609663:android:7230dd136a0aa062e790ca",
+        "android_client_info": {
+          "package_name": "com.pa.ipbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763534609663-94mn41cjs9igsrr8o39k92aka0qvap4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqBZyJvvpspaFOuMiXq_r2LBQWv-OVrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763534609663-94mn41cjs9igsrr8o39k92aka0qvap4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
